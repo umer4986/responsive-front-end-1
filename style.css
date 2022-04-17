@@ -168,6 +168,10 @@ nav a:hover{
    margin-bottom: 2em;
 }
 
+.article-featured img{
+   max-height: 1em;
+}
+
 .article-recent{
    display: flex;
    flex-direction: column;
